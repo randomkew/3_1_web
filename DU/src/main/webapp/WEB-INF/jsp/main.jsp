@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Main Page</title>
+<title>Main Page2</title>
 </head>
 <body>
-	<h1>Main Page</h1>
+	<h1>Main Page2</h1>
 </body>
 </html>
