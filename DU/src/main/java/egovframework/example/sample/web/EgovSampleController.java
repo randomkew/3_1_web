@@ -22,13 +22,4 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class EgovSampleController {
 	
-	@RequestMapping(value = "/main.do")
-	public String mainPage() throws Exception {
-		return "main.html";
-	}
-	
-	@GetMapping("/login.do")
-	public String loginPage() {
-		return "login.html";
-	}
 }
