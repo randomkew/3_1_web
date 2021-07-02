@@ -24,11 +24,11 @@ public class EgovSampleController {
 	
 	@RequestMapping(value = "/main.do")
 	public String mainPage() throws Exception {
-		return "main";
+		return "main.html";
 	}
 	
 	@GetMapping("/login.do")
 	public String loginPage() {
-		return "login";
+		return "login.html";
 	}
 }
