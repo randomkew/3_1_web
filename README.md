@@ -1,2 +1,2 @@
-# DU web-program sample source
+DU web-program sample source
 ==============================
