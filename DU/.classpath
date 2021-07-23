@@ -41,5 +41,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/SAMSUNG/Downloads/slf4j-api-1.7.30.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
